@@ -1,9 +1,1 @@
-@misc{rotaru2024rodianewdatasetromanian,
-      title={RoDia: A New Dataset for Romanian Dialect Identification from Speech}, 
-      author={Codrut Rotaru and Nicolae-Catalin Ristea and Radu Tudor Ionescu},
-      year={2024},
-      eprint={2309.03378},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2309.03378}, 
-}
+
