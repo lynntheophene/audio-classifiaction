@@ -50,14 +50,25 @@ The dataset is organized as follows:
 Each label folder contains sample data for that dialect or language.
 
 ---
+## 📚 Dataset Citation
 
-## 📬 Contact
+This project utilizes the **RoDia dataset** for Romanian dialect identification from speech.
 
-For any queries or support, feel free to reach out:  
-**lynntheophene@gmail.com**
+> **Citation**:
+>
+> Codruț Rotaru, Nicolae Cătălin Ristea, and Radu Tudor Ionescu. 2024. *RoDia: A New Dataset for Romanian Dialect Identification from Speech*. In *Findings of the Association for Computational Linguistics: NAACL 2024*, pages 279–286, Mexico City, Mexico. Association for Computational Linguistics. [https://aclanthology.org/2024.findings-naacl.20/](https://aclanthology.org/2024.findings-naacl.20/)
+
+🔗 **Dataset Repository**: [https://github.com/codrut2/RoDia](https://github.com/codrut2/RoDia)
+
+📄 **License**: Refer to the dataset repository for licensing information.
+
+Please ensure that you adhere to the licensing terms specified in the dataset's repository.
+
+
+
 
 ---
 
-Feel free to fork this repo and experiment with the model or dataset. Contributions are welcome!
+Feel free to fork this repo and experiment with the model . Contributions are welcome!
 
 
